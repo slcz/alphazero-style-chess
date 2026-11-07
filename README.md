@@ -100,7 +100,7 @@ Dashed lines mark gen14 (slow-only training), gen18 (π̄ SEARCH), and gen20
 
 ## Web GUI
 
-You can try the trained network in the [web GUI](https://slcz.github.io/chess/).
+You can try the trained network in the [web GUI](https://slcz.github.io/alphazero-style-chess/).
 The net panel defaults to `rpo-learn/gen20.onnx`, the final checkpoint
 of the 20-iteration `rpo-learn` lineage.
 
